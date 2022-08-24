@@ -1,5 +1,5 @@
-# UX Portfolio
-
+# Jose's UX Portfolio
+![Photo of Fred Fredburger](assets/fredburger.jfif)
 
 ## UX Team Project
 
