@@ -7,4 +7,4 @@ Hi I'm Jose Sanchez, last year at CSU Chico, and this is where I'll be showcasin
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Analysis of User Experience of E&J Gallo career website](j01/)
