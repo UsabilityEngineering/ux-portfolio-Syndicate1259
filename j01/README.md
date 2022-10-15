@@ -6,8 +6,9 @@
 
 After visiting the job fair and talking to the recruiters for E&J Gallo, they suggested I apply to their website so they can match my resume to my application on their website. After accessing their career website, I was greeted with a nice looking home page with a search bar in the middle. The search fields are "Keyword" and "Location" which are standard for a career website(Consistency and Standards Heuristic). Since I want to see all available "IT" positions, I'm going to just type "IT" for my keyword and click search.
 
+![EJGallo](../assets/ejgallo-1.pdf)
 
- 
+After finishing the search, I get this as a result
 
 
 
