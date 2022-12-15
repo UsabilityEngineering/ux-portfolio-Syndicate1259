@@ -6,5 +6,6 @@ Hi I'm Jose Sanchez, last year at CSU Chico, and this is where I'll be showcasin
 
 
 ## UX Journal
+[https://usabilityengineering.github.io/bracket-maker](https://usabilityengineering.github.io/bracket-maker/)
 
 [Analysis of User Experience of E&J Gallo career website](j01/)
