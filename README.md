@@ -9,3 +9,4 @@ Hi I'm Jose Sanchez, last year at CSU Chico, and this is where I'll be showcasin
 ## UX Journal
 
 [Analysis of User Experience of E&J Gallo career website](j01/)
+[Analysis of User Experience of Stove](j02/)
